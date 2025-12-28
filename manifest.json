@@ -1,0 +1,11 @@
+{
+  "id": "image-importer",
+  "name": "Image Importer",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "A plugin for importing images into the vault either from the device (local) or from the web (remote) with an option to create an accompanying markdown file for the imported image.",
+  "author": "Ahmed Hegazi",
+  "authorUrl": "https://github.com/ahmed-hegazi0",
+  "isDesktopOnly": true,
+  "main": "main.js"
+}

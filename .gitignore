@@ -1,0 +1,12 @@
+node_modules/
+.temp/
+.vscode/
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
+*.log
+*.tgz
+.env
+.obsidian/
