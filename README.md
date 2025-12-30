@@ -40,6 +40,3 @@ the plugin - combined with **Templater** plugin - can be used with **Obsidian**'
 
 ## Changelog
 - 1.0.0: Initial Release
-
-## License
-- MIT
