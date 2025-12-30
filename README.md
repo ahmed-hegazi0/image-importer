@@ -1,5 +1,5 @@
 # image-importer
-An Obsidian plugin for importing images into the vault either from the device (local) or from the web (remote) with an option to create an accompanying markdown file for the imported image.
+A plugin for importing images into the vault either from the device (local) or from the web (remote) with an option to create an accompanying markdown file for the imported image.
 
 ## Features
 - Importing images into the vault from the device (local) or from the web (remote) with configurations through the plugin's modal.
