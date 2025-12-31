@@ -1,5 +1,6 @@
 # image-importer
 A plugin for importing images into the vault either from the device (local) or from the web (remote) with an option to create an accompanying markdown file for the imported image.
+Note: it currently only support JPEG and PNG Images with expected future support for other formats
 
 ## Features
 - Importing images into the vault from the device (local) or from the web (remote) with configurations through the plugin's modal.
